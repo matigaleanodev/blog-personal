@@ -4,3 +4,9 @@
 [submodule "blog-front"]
 	path = blog-front
 	url = https://github.com/matigaleanodev/blog-front.git
+[submodule "post-service"]
+	path = post-service
+	url = https://github.com/matigaleanodev/post-service.git
+[submodule "comment-service"]
+	path = comment-service
+	url = https://github.com/matigaleanodev/comment-service.git
