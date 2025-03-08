@@ -1,3 +1,6 @@
 [submodule "auth-service"]
 	path = auth-service
-	url = https://github.com/TU-USUARIO/auth-service.git
+	url = https://github.com/matigaleanodev/auth-service.git
+[submodule "blog-front"]
+	path = blog-front
+	url = https://github.com/matigaleanodev/blog-front.git
