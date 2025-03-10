@@ -1,24 +1,24 @@
 [submodule "api-gateway"]
-    path = api-gateway
-    url = https://github.com/usuario/api-gateway.git
-    branch = main
+  path = api-gateway
+	url = https://github.com/matigaleanodev/api-gateway.git
+  branch = main
 
 [submodule "auth-service"]
-    path = auth-service
-    url = https://github.com/usuario/auth-service.git
-    branch = main
+  path = auth-service
+  url = https://github.com/matigaleanodev/auth-service.git
+  branch = main
 
 [submodule "blog-front"]
-    path = blog-front
-    url = https://github.com/usuario/blog-front.git
-    branch = main
+  path = blog-front
+  url = https://github.com/matigaleanodev/blog-front.git
+  branch = main
 
 [submodule "comment-service"]
-    path = comment-service
-    url = https://github.com/usuario/comment-service.git
-    branch = main
+  path = comment-service
+  url = https://github.com/matigaleanodev/comment-service.git
+  branch = main
 
 [submodule "post-service"]
-    path = post-service
-    url = https://github.com/usuario/post-service.git
-    branch = main
+  path = post-service
+  url = https://github.com/matigaleanodev/post-service.git
+  branch = main
