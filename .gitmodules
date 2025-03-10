@@ -10,3 +10,6 @@
 [submodule "comment-service"]
 	path = comment-service
 	url = https://github.com/matigaleanodev/comment-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/matigaleanodev/api-gateway.git
